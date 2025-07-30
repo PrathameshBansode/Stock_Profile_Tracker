@@ -63,9 +63,7 @@ npm install
 npm run dev
 npm start
 
-🔐 Authentication & Payments
-JWT is used for secure user authentication.
 
-Razorpay is integrated for managing premium subscription access.
+
 
 
